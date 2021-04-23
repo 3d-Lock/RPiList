@@ -1,13 +1,9 @@
 # Protection against fake shops, advertising, tracking and other attacks from the Internet. 
 
-[CONTENT]
-
-[CONTENT]
-
-[CONTENT]
+[CONTENT] - soon..
 
 # Add Domains to the PI-Hole Lists
-[CONTENT]
+[CONTENT] - soon..
 
 
 # Download Pi-Hole Image
